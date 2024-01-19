@@ -1,4 +1,11 @@
+![Image](/img/trees.jpeg)
+
 ### Hi there 👋
+
+#### *About me*
+
+- [ ] iOS app for travel 
+
 
 <!--
 **crossingchen/crossingchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
