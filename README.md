@@ -2,6 +2,7 @@
 
 #### *About me*
 - Location: Bay Area, California 🌊
+- Recent work: https://crossingchen.github.io/gallery/
 
 #### *My 2024 checklist, still growing*
 - [ ] iOS app as a travel album 📷
