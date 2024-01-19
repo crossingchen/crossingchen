@@ -1,11 +1,20 @@
-![Image](/img/trees.jpeg)
-
-### Hi there 👋
+### Welcome 👋
 
 #### *About me*
+- Location: Bay Area, California 🌊
 
-- [ ] iOS app for travel 
+#### *My 2024 checklist, still growing*
+- [ ] iOS app as a travel album 📷
+- [ ] An interactive map for the trending TV series, Blossoms Shanghai 🌼
 
+#### *My tools*
+- Python, Ruby, Javascript/HTML/CSS, SQL, Swift
+- Photoshop, Illustrator, InDesign, Revit
+
+#### *Currently learning*
+- [ ] Practical deep learning
+- [ ] Building a seasonal garden
+- [ ] 8 form Tai Chi
 
 <!--
 **crossingchen/crossingchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
