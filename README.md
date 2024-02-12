@@ -13,6 +13,7 @@
 - Photoshop, Illustrator, InDesign, Revit
 
 #### *Currently learning*
+- [x] DataCamp Data Engineer Career Track Course
 - [ ] Practical deep learning
 - [ ] Building a seasonal garden
 - [ ] 8 form Tai Chi
